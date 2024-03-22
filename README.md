@@ -50,9 +50,12 @@
 
 ###
 
-<div>
+<img align="right" height="100" src="https://media.giphy.com/media/diBEnAwwUG7UA/giphy.gif?cid=790b76119683dlbepxvwls94wi9u3kfe2l9e5lojkomt0xb0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=AmrEwais&theme=flat&column=4&row=1&margin-w=10&margin-h=100&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img align="right" height="100" src="https://media.giphy.com/media/diBEnAwwUG7UA/giphy.gif?cid=790b76119683dlbepxvwls94wi9u3kfe2l9e5lojkomt0xb0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
