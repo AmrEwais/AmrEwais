@@ -1,25 +1,17 @@
-<h2 align="left">Hi 👋!  I'm The Copy Ninja</h2>
+<h2 align="left">Hi 👋🏼!  I'm The Copy Ninja</h2>
 
-###
+## About Me
+I'm a junior🤏🏼 software engineer and competitive programmer with a knack for problem-solving. I love tackling complex challenges and finding creative solutions. My background in computer science has equipped me with a strong foundation in algorithms and data structures.
 
-<div align="left">
-  <a href="https://www.instagram.com/thecopyninja.cs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/amr-mohamed-ewais/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 🔭 I’m currently working on
+- Improving my problem-solving skills
+- Building personal projects to enhance my portfolio
 
-###
+## 🌱 I’m currently learning
+- Advanced algorithms and data structures
+- Emerging technologies in software development
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrEwais&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrEwais&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="140" alt="languages graph"  />
-</div>
-
-###
-
+## 💼 Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -48,19 +40,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
-###
+## 🏆 Certifications
+- ECPC Egyptian Collegiate Programming - Qualified Contestant
+- The Web Development Challenger Track - Udacity
+- Forward program - McKinsey & Company
 
-<img align="right" height="150" src="https://media.giphy.com/media/JVeNlfprxQlVe/giphy.gif?cid=790b7611k1k81a58hb1n9laloekcouwr6nfdh7kv0007360e&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+## 🤝 Open to Collaboration
+- Interested in collaborating on challenging software projects
+- Open to contributing to open-source projects
 
-###
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+## 📫 How to reach me
 
-###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="left">
+  <a href="https://www.instagram.com/thecopyninja.cs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/amr-mohamed-ewais/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
