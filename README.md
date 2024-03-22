@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋🏼!  I'm The Copy Ninja</h2>
+<h2 align="center">Hi 👋🏼!  I'm The Copy Ninja</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/thecopyninja.cs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -50,10 +50,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/JVeNlfprxQlVe/giphy.gif?cid=790b7611k1k81a58hb1n9laloekcouwr6nfdh7kv0007360e&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<img src="https://github.com/AmrEwais/AmrEwais/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<div>
+  <img src="https://github-profile-trophy.vercel.app?username=AmrEwais&theme=flat&column=4&row=1&margin-w=10&margin-h=100&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img align="right" height="100" src="https://media.giphy.com/media/diBEnAwwUG7UA/giphy.gif?cid=790b76119683dlbepxvwls94wi9u3kfe2l9e5lojkomt0xb0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
