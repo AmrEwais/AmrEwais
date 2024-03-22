@@ -54,7 +54,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AmrEwais/AmrEwais/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AmrEwais/output/snake.svg" alt="Snake animation" />
 
 ###
 
