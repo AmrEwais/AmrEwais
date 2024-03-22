@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋🏼!  I'm The Copy Ninja 🥷🏼</h2>
+<h2 align="left">Hi 👋🏼!  I'm The Copy Ninja</h2>
 
 ###
 
@@ -54,18 +54,6 @@
 
 ###
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AmrEwais/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AmrEwais/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/AmrEwais/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img src="https://github.com/AmrEwais/AmrEwais/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+
 ###
