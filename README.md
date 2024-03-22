@@ -1,4 +1,8 @@
-<h2 align="center">Hi 👋🏼!  I'm The Copy Ninja</h2>
+<h2 align="left">Hi 👋🏼!  I'm The Copy Ninja</h2>
+
+###
+
+<img align="right" height="70" src="https://media.giphy.com/media/diBEnAwwUG7UA/giphy.gif?cid=790b76119683dlbepxvwls94wi9u3kfe2l9e5lojkomt0xb0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -13,9 +17,17 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmrEwais&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrEwais&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="140" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=AmrEwais&theme=flat&column=4&row=1&margin-w=10&margin-h=100&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -46,16 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
-
-###
-
-<img align="right" height="100" src="https://media.giphy.com/media/diBEnAwwUG7UA/giphy.gif?cid=790b76119683dlbepxvwls94wi9u3kfe2l9e5lojkomt0xb0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=AmrEwais&theme=flat&column=4&row=1&margin-w=10&margin-h=100&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
